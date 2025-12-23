@@ -21,3 +21,5 @@ This repository contains codes used to quantify image datasets of neuron-recepti
 
 The analysis is launched using the `eteetsWrap()` function.
 
+`minimalBridge` is originally from the Adaptive Resolution Space repo with a bug fixed due to function depreciation.
+
